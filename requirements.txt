@@ -1,2 +1,4 @@
-rembg
+rembg[torch]
 pillow
+torch
+torchvision
