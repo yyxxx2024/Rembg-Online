@@ -1,4 +1,3 @@
-rembg[torch]
+rembg
 pillow
-torch
-torchvision
+onnxruntime
